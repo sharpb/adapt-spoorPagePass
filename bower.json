@@ -1,0 +1,20 @@
+{
+    "name": "adapt-spoorPagePass",
+    "repository": "git://github.com/sharpb/adapt-spoorPagePass.git",
+    "framework": "^2.0.0",
+    "version": "1.0.0",
+    "homepage": "https://github.com/sharpb/adapt-spoorPagePass",
+    "issues": "https://github.com/sharpb/adapt-spoorPagePass/issues/",
+    "displayName": "Spoor - page pass",
+    "extension": "spoorpagepass",
+    "authors": [
+        "Ben Sharp"
+    ],
+    "description": "Uses Spoor to set the SCORM lesson status to passed on completion of a page.",
+    "main": "/js/adapt-spoorPagePass.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3"
+}
